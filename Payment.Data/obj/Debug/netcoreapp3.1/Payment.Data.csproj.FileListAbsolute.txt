@@ -1,0 +1,9 @@
+C:\Users\Sumita\source\repos\PaymentApp\Payment.Data\bin\Debug\netcoreapp3.1\Payment.Data.deps.json
+C:\Users\Sumita\source\repos\PaymentApp\Payment.Data\bin\Debug\netcoreapp3.1\Payment.Data.dll
+C:\Users\Sumita\source\repos\PaymentApp\Payment.Data\bin\Debug\netcoreapp3.1\Payment.Data.pdb
+C:\Users\Sumita\source\repos\PaymentApp\Payment.Data\obj\Debug\netcoreapp3.1\Payment.Data.csprojAssemblyReference.cache
+C:\Users\Sumita\source\repos\PaymentApp\Payment.Data\obj\Debug\netcoreapp3.1\Payment.Data.AssemblyInfoInputs.cache
+C:\Users\Sumita\source\repos\PaymentApp\Payment.Data\obj\Debug\netcoreapp3.1\Payment.Data.AssemblyInfo.cs
+C:\Users\Sumita\source\repos\PaymentApp\Payment.Data\obj\Debug\netcoreapp3.1\Payment.Data.csproj.CoreCompileInputs.cache
+C:\Users\Sumita\source\repos\PaymentApp\Payment.Data\obj\Debug\netcoreapp3.1\Payment.Data.dll
+C:\Users\Sumita\source\repos\PaymentApp\Payment.Data\obj\Debug\netcoreapp3.1\Payment.Data.pdb

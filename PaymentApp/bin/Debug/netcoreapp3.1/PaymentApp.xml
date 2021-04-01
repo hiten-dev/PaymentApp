@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>PaymentApp</name>
+    </assembly>
+    <members>
+        <member name="M:PaymentApp.Controllers.PaymentAPIController.ProcessPayment(Payment.Models.PayementModel)">
+            <summary>
+            Process a new payment
+            </summary>
+            <param name="value"></param>
+        </member>
+    </members>
+</doc>
